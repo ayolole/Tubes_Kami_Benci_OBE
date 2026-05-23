@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Yujin")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e4757861377ac54ccfd8d317eafe3f93ea5b497f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e426dad3988442fa0b6ea584ad4a6ad31ca77e2c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Yujin")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Yujin")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
