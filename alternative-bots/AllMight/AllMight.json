@@ -1,0 +1,10 @@
+{
+  "name": "AllMight",
+  "version": "3.0",
+  "authors": ["Melvin"],
+  "description": "Allmight adalah bot yang memprioritaskan target terdekat, menjaga radar dan aim tetap terkunci, serta menjaga jarak agar tidak mudah ditabrak atau dihancurkan.",
+  "homepage": "",
+  "countryCodes": ["id"],
+  "platform": ".Net 10.0",
+  "programmingLang": "C# 10.0"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Deku",
+  "version": "2.0",
+  "authors": ["Melvin"],
+  "description": "bot yang bergerak bebas dan bakal nembak musuh di radar",
+  "homepage": "",
+  "countryCodes": ["id"],
+  "platform": ".Net 10.0",
+  "programmingLang": "C# 10.0"
+}
