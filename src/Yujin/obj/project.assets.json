@@ -732,11 +732,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\downloadD\\Tubes_Kami_Benci_OBE\\src\\Yujin\\Yujin.csproj",
+      "projectUniqueName": "C:\\Users\\ASUS\\Downloads\\Tubes_Kami_Benci_OBE\\src\\Yujin\\Yujin.csproj",
       "projectName": "Yujin",
-      "projectPath": "D:\\downloadD\\Tubes_Kami_Benci_OBE\\src\\Yujin\\Yujin.csproj",
+      "projectPath": "C:\\Users\\ASUS\\Downloads\\Tubes_Kami_Benci_OBE\\src\\Yujin\\Yujin.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "D:\\downloadD\\Tubes_Kami_Benci_OBE\\src\\Yujin\\obj\\",
+      "outputPath": "C:\\Users\\ASUS\\Downloads\\Tubes_Kami_Benci_OBE\\src\\Yujin\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config"

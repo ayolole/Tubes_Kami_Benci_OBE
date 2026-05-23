@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ugGkb6VVzDw=",
+  "dgSpecHash": "+J954tOKpsM=",
   "success": true,
-  "projectFilePath": "D:\\downloadD\\Tubes_Kami_Benci_OBE\\alternative-bots\\AllMight\\AllMight.csproj",
+  "projectFilePath": "C:\\Users\\ASUS\\Downloads\\Tubes_Kami_Benci_OBE\\alternative-bots\\AllMight\\AllMight.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.build.locator\\1.7.8\\microsoft.build.locator.1.7.8.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",

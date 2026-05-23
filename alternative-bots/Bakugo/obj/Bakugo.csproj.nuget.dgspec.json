@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\downloadD\\Tubes_Kami_Benci_OBE\\alternative-bots\\Bakugo\\Bakugo.csproj": {}
+    "C:\\Users\\ASUS\\Downloads\\Tubes_Kami_Benci_OBE\\alternative-bots\\Bakugo\\Bakugo.csproj": {}
   },
   "projects": {
-    "D:\\downloadD\\Tubes_Kami_Benci_OBE\\alternative-bots\\Bakugo\\Bakugo.csproj": {
+    "C:\\Users\\ASUS\\Downloads\\Tubes_Kami_Benci_OBE\\alternative-bots\\Bakugo\\Bakugo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\downloadD\\Tubes_Kami_Benci_OBE\\alternative-bots\\Bakugo\\Bakugo.csproj",
+        "projectUniqueName": "C:\\Users\\ASUS\\Downloads\\Tubes_Kami_Benci_OBE\\alternative-bots\\Bakugo\\Bakugo.csproj",
         "projectName": "Bakugo",
-        "projectPath": "D:\\downloadD\\Tubes_Kami_Benci_OBE\\alternative-bots\\Bakugo\\Bakugo.csproj",
+        "projectPath": "C:\\Users\\ASUS\\Downloads\\Tubes_Kami_Benci_OBE\\alternative-bots\\Bakugo\\Bakugo.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "D:\\downloadD\\Tubes_Kami_Benci_OBE\\alternative-bots\\Bakugo\\obj\\",
+        "outputPath": "C:\\Users\\ASUS\\Downloads\\Tubes_Kami_Benci_OBE\\alternative-bots\\Bakugo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,7 +1,7 @@
 {
   "name": "AllMight",
   "version": "3.0",
-  "authors": ["Melvin"],
+  "authors": ["Melvin, Govin, Qintafa"],
   "description": "Allmight adalah bot yang memprioritaskan target terdekat, menjaga radar dan aim tetap terkunci, serta menjaga jarak agar tidak mudah ditabrak atau dihancurkan.",
   "homepage": "",
   "countryCodes": ["id"],

@@ -732,11 +732,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\downloadD\\Tubes_Kami_Benci_OBE\\alternative-bots\\Deku\\Deku.csproj",
+      "projectUniqueName": "C:\\Users\\ASUS\\Downloads\\Tubes_Kami_Benci_OBE\\alternative-bots\\Deku\\Deku.csproj",
       "projectName": "Deku",
-      "projectPath": "D:\\downloadD\\Tubes_Kami_Benci_OBE\\alternative-bots\\Deku\\Deku.csproj",
+      "projectPath": "C:\\Users\\ASUS\\Downloads\\Tubes_Kami_Benci_OBE\\alternative-bots\\Deku\\Deku.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "D:\\downloadD\\Tubes_Kami_Benci_OBE\\alternative-bots\\Deku\\obj\\",
+      "outputPath": "C:\\Users\\ASUS\\Downloads\\Tubes_Kami_Benci_OBE\\alternative-bots\\Deku\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config"

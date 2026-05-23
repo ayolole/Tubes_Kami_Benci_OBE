@@ -732,11 +732,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\downloadD\\Tubes_Kami_Benci_OBE\\alternative-bots\\AllMight\\AllMight.csproj",
+      "projectUniqueName": "C:\\Users\\ASUS\\Downloads\\Tubes_Kami_Benci_OBE\\alternative-bots\\AllMight\\AllMight.csproj",
       "projectName": "AllMight",
-      "projectPath": "D:\\downloadD\\Tubes_Kami_Benci_OBE\\alternative-bots\\AllMight\\AllMight.csproj",
+      "projectPath": "C:\\Users\\ASUS\\Downloads\\Tubes_Kami_Benci_OBE\\alternative-bots\\AllMight\\AllMight.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "D:\\downloadD\\Tubes_Kami_Benci_OBE\\alternative-bots\\AllMight\\obj\\",
+      "outputPath": "C:\\Users\\ASUS\\Downloads\\Tubes_Kami_Benci_OBE\\alternative-bots\\AllMight\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config"
