@@ -193,6 +193,8 @@ Contoh struktur:
 ```txt
 Tubes_Kami_Benci_OBE/
 │
+├── doc/
+│    └──  KamiBenciOBE.pdf
 ├── src/
 │    ├── main-bot/
 │    │       └──  Yujin/           
